@@ -1,0 +1,20 @@
+1 after click on any number it will be displayed.
+
+2 then if click on any operator then any another numbers then equal operator , it will be displayed the result.
+
+3 after displayed result if i clicked any input it will start the calculate newly and hide the privies result immediately.
+
+// Let's break the problems into sub-problems
+
+1. get input  value
+2.display the value
+
+3.get second input value after click on any operator.
+
+4.hide first input value
+
+5. display second input value
+
+6. then after click on = display the math result based on click on math operator.
+
+7.then after click on any input the result will be clear and display the input value;
